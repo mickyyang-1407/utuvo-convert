@@ -1,0 +1,61 @@
+{
+  "blender": "5.2.2 LTS",
+  "engine": "Cycles",
+  "device": "GPU",
+  "samples_at_rest": 128,
+  "size_at_rest": [
+    720,
+    720
+  ],
+  "count": 4,
+  "motion_samples": 16,
+  "motion_size": [
+    512,
+    512
+  ],
+  "frames": 73,
+  "source_scene_sha256": "86c628d83c188c14fd15e8e59368466e7e25193b24200edd24fb2313f76b4926",
+  "camera_ortho_scale": 3.6,
+  "approved_camera_ortho_scale": 3.9,
+  "materials_and_lights": "V5 saturated v4 pigment, softened roughness, one ellipse studio reflection and balanced exposure; owner taste pending",
+  "layers": "Stage invisible to camera in all optical layers, retained for transmitted rays; exact clear exterior alpha. Authored static optical layering.",
+  "central_shadow": "Lens and annulus shadows excluded from close catcher plane; authored optical layer approximation",
+  "transparent_optical_camera": true,
+  "text": "Dynamic accessible native text, not baked into these assets",
+  "scope": "Authored Blender layers, not live desktop refraction or physical engraving",
+  "probe": false,
+  "mesh_qc": [
+    {
+      "object": "Open backed seamless silver bezel",
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.03917617255491615
+    },
+    {
+      "object": "Pure transmitted polished central lens",
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.41626112193874437
+    },
+    {
+      "object": "Blue · WAV leaf",
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.4081075733562685
+    },
+    {
+      "object": "Green · OGG leaf",
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.4081075733562685
+    },
+    {
+      "object": "Red · AIFF leaf",
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.4081075733562685
+    },
+    {
+      "object": "Yellow · FLAC leaf",
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.4081075733562685
+    }
+  ],
+  "hardware_backend": "METAL",
+  "leaf_shadows": "Excluded from close stage receiver to prevent mottled caustics. Centre receiver shadows also excluded. Authored layer approximation."
+}

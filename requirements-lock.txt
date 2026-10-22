@@ -1,0 +1,12 @@
+attrs==21.4.0
+cffi==2.1.1
+ear==2.1.0
+lxml==4.9.4
+multipledispatch==0.6.0
+numpy==1.26.4
+pycparser==3.0
+ruamel.yaml==0.19.1
+scipy==1.17.1
+setuptools==80.10.2
+six==1.17.0
+soundfile==0.13.1
