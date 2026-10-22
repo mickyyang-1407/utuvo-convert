@@ -4,6 +4,8 @@ An offline audio converter for macOS with a floating, animated glass interface.
 Built with SwiftUI, AppKit and a Python audio engine. English and Traditional
 Chinese are included.
 
+[Product introduction / 產品介紹](https://mickyyang-1407.github.io/utuvo-convert/) · [English](https://mickyyang-1407.github.io/utuvo-convert/en/)
+
 **Open source under the [MIT License](LICENSE).** Third-party dependencies retain
 their own licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
